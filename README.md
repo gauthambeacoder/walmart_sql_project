@@ -87,14 +87,14 @@ This project is an end-to-end data analysis solution designed to extract critica
 - Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
 ## Project Structure
-```
-|-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
-|-- notebooks/                # Jupyter notebooks for Python analysis
-|-- README.md                 # Project documentation
-|-- requirements.txt          # List of required Python libraries
-|-- main.py                   # Main script for loading, cleaning, and processing data
-```
+/walmart_project/
+├── venv/                     # Virtual environment (not tracked in Git)
+├── data/                     # Raw data and transformed data
+├── sql_queries/              # SQL scripts for analysis
+├── notebooks/                # Jupyter notebooks for Python analysis
+├── README.md                 # Project documentation
+├── requirements.txt          # List of required Python libraries
+├── project.ipynb             # Main Jupyter Notebook for analysis
 
 ## Results and Insights
 This section will include your analysis findings:
